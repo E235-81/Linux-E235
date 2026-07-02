@@ -1,0 +1,8 @@
+[変電設備] SS_01 : Tokyo_Substation (直流1500V)
+[変電設備] SS_02 : Shinagawa_Substation (直流1500V)
+[電車線路] OH_01 : Yamanote_Line_Catensry (シンプルカテナリ)
+[信号設備] SG_01 : Shinjuku_ATC_Signal (自動列車制御装置)
+[通信設備] CM_01 : Ueno_Radio_Tower (列車無線)
+[変電設備] SS_03 : Omiya_Substation (交流20000V)
+[踏切設備] CR_01 : Kawasaki_Crossing_No1 (第1種踏切)
+[信号設備] sg_02 : Yokohama_LED_Signal (LED信号機)
