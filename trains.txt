@@ -1,7 +1,0 @@
-E235 Yamanote 11
-E233 Chuo 10
-E231 Sobu 10
-E235 Yamanote 11
-E233 Keiyo 10
-E217 Sobu 11
-E233 Chuo 10
