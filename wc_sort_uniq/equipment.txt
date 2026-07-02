@@ -1,0 +1,10 @@
+Transformer
+Generator
+Breaker
+Transformer
+transformer
+UPS
+Breaker
+UPS
+  UPS
+Switchboard
